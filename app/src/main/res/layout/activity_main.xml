@@ -7,13 +7,6 @@
     tools:context="com.example.android.sunshine_intermediate_class.MainActivity">
 
 
-    <LinearLayout
-        android:layout_width=""
-        android:layout_height=""></LinearLayout>
-    <TextView
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
-    <>
+
 
 </LinearLayout>
